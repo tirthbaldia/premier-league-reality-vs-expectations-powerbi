@@ -30,12 +30,12 @@ The report is structured as a four-page narrative:
 
 ## Dashboard Preview
 
-> Add your screenshots in a `screenshots/` folder with these names (or update the paths below).
 
-![Executive Summary](screenshots/01-executive-summary.png)
-![Drivers](screenshots/02-drivers-what.png)
-![Deep Dive](screenshots/03-deep-dive-how.png)
-![What-If Action](screenshots/04-what-if-action.png)
+<img width="1512" height="982" alt="Screenshot 2026-02-23 at 11 19 06 PM" src="https://github.com/user-attachments/assets/7adab15e-bcd8-469c-ba43-077cbfc46d19" />
+<img width="1512" height="982" alt="Screenshot 2026-02-23 at 11 19 13 PM" src="https://github.com/user-attachments/assets/8de5c052-6328-4bfa-a634-9c4b3aea4deb" />
+<img width="1512" height="982" alt="Screenshot 2026-02-23 at 11 06 47 PM" src="https://github.com/user-attachments/assets/658226bb-c2ac-4b42-b607-1ae1fc3c6562" />
+<img width="1512" height="982" alt="Screenshot 2026-02-23 at 11 19 21 PM" src="https://github.com/user-attachments/assets/7dca30b8-4ed4-43b2-ba9b-23f0b1fab54c" />
+
 
 ## Data Sources
 
